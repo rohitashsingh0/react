@@ -26,6 +26,7 @@
 - Handling Non-Click Events
 - Event Object
 - State in React
+-- The state is a built-in React object that is used to contain data or information about the component. A component's state can change over time; whenever it changes, the component re-renders.https://nextstep.tcs.com/campus/#/
 - Hooks
 - useState
 - Activity Create Like Button
@@ -34,4 +35,26 @@
 - Callback in Set State Fuction 
 - More about State
 ---
-- 
+- Objects & State
+- Array & State
+- Activity - Create a Todo
+- Unique Key for List Items
+- Deleting from Arrays
+- Update All in Array
+- Update One in Array
+- Add a_Mark as Done_Feature in Todo
+-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
