@@ -1,32 +1,37 @@
-Introduction
-What is React
-What is JSX
-Installation
-Understading Structure
-print "Hello World"
-Components
-import and export 
-writing Markup in JSX
-React Fragment 
-JSX with Curly Braces
-Structuring Components
-Styling Components
-React Props
-Passing Arrays to Props
-Rendering Arrays
-Conditionals
-Dynamic Component Styling
-Activity
-Install React Developer Tool
-Activity Amazon Cards
-Handling Click Events
-Handling Non-Click Events
-Event Object
-State in React
-Hooks
-useState
-Activity Create Like Button
-Closure in JS
-Re-render - How does it work
-Callback in Set State Fuction 
-More about State
+--- 
+- Introduction
+- What is React
+- What is JSX
+- Installation
+- Understading Structure
+- print "Hello World"
+- Components
+- import and export 
+- writing Markup in JSX
+- React Fragment 
+- JSX with Curly Braces
+- Structuring Components
+- Styling Components
+---
+- React Props
+- Passing Arrays to Props
+- Rendering Arrays
+- Conditionals
+- Dynamic Component Styling
+- Activity
+- Install React Developer Tool
+- Activity Amazon Cards
+---
+- Handling Click Events
+- Handling Non-Click Events
+- Event Object
+- State in React
+- Hooks
+- useState
+- Activity Create Like Button
+- Closure in JS
+- Re-render - How does it work
+- Callback in Set State Fuction 
+- More about State
+---
+- 
